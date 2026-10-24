@@ -1,0 +1,36 @@
+{
+  "name": "waitupfat",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0 <25"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "node scripts/start.mjs",
+    "typecheck": "tsc --noEmit",
+    "db:migrate": "node scripts/migrate.mjs",
+    "test:flows": "node tests/flows.mjs",
+    "test:local": "node tests/local.mjs"
+  },
+  "dependencies": {
+    "better-auth": "1.7.12",
+    "drizzle-orm": "0.45.2",
+    "lucide-react": "1.31.0",
+    "next": "16.3.4",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.19",
+    "@types/pg": "^8.15.6",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3",
+    "@electric-sql/pglite": "^0.3.14",
+    "@electric-sql/pglite-socket": "^0.0.20"
+  }
+}
