@@ -2,6 +2,12 @@
 
 面向朋友试用的饮食记录与审批 Web 应用。保留独立邮箱密码账号、公开/私密记录、公开记录投票、点赞、成就、网页饭点提醒和日历导出。
 
+## 产品方案与版本记录
+
+- [完整产品方案 v0.2.0](docs/product/versions/v0.2.0.md)：三餐记录、额外审批、长期趋势与可调语气陪伴。
+- [实施与验收](docs/product/ROADMAP.md) · [变更记录](CHANGELOG.md) · [版本规则](docs/VERSIONING.md) · [发布台账](docs/releases/README.md)。
+- 当前应用版本仍是 **v0.1.0**；新方案归档不表示功能已经上线。
+
 ## 当前部署目标
 
 - Render 服务：`srv-dbe46dfb9u1s73c4a550`
@@ -11,7 +17,7 @@
 
 ## 部署到已有 Render 服务
 
-代码先放入自己的 GitHub 仓库。建议设为 Private，只授权 Render 访问这个仓库。
+代码位于用户已授权公开的 [iTuer/waitupfat](https://github.com/iTuer/waitupfat) 仓库。数据库连接串与密钥仅放在 Render 环境变量中。
 
 在已有 Render 服务的 Settings 中连接该仓库，填写：
 
