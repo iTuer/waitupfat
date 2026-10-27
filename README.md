@@ -4,7 +4,7 @@
 
 ## 产品方案与版本记录
 
-- [完整产品方案 v0.2.0](docs/product/versions/v0.2.0.md)：三餐记录、额外审批、长期趋势与可调语气陪伴。
+- [拍照优先 MVP v0.3.0](docs/product/versions/v0.3.0.md)：拍照／选图、自动识别、按需纠错、确认保存；当前为设计方案。
 - [实施与验收](docs/product/ROADMAP.md) · [变更记录](CHANGELOG.md) · [版本规则](docs/VERSIONING.md) · [发布台账](docs/releases/README.md)。
 - 当前应用版本仍是 **v0.1.0**；新方案归档不表示功能已经上线。
 
