@@ -13,3 +13,7 @@
 历史说明：v0.1.0 是已经存在的应用版本，未曾有独立完整产品方案文件，不补造旧版方案。历史代码和验证记录见 [发布台账](../releases/README.md)。
 
 入口：[路线与验收](ROADMAP.md) · [决策记录](../decisions/001-meal-recording-and-extra-approval.md) · [变更记录](../../CHANGELOG.md) · [版本规则](../VERSIONING.md)
+
+## 独立评估
+
+- [2026-10-27 思考草稿评估 v1](reviews/2026-10-27-draft-review-v1.md)：定位、用户动机、竞品证据、互动机制和最小验证范围；属于建议，尚未替代当前产品方案。
