@@ -4,7 +4,7 @@
 
 ## 产品方案与版本记录
 
-- [拍照优先 MVP v0.3.0](docs/product/versions/v0.3.0.md)：拍照／选图、自动识别、按需纠错、确认保存；当前为设计方案。
+- [完整产品提案 v0.4.0](docs/product/versions/v0.4.0.md)：结合定位、竞品与核心场景，补全记录、帮选、付费 AI、数据与上线准备；待评审、未实施。此前明确的拍照方向见 [v0.3.0](docs/product/versions/v0.3.0.md)。
 - [实施与验收](docs/product/ROADMAP.md) · [变更记录](CHANGELOG.md) · [版本规则](docs/VERSIONING.md) · [发布台账](docs/releases/README.md)。
 - 当前应用版本仍是 **v0.1.0**；新方案归档不表示功能已经上线。
 
