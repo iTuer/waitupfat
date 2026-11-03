@@ -18,6 +18,7 @@
 
 ## 独立评估
 
+- [餐盘交互样机 v1](prototypes/plate-v1/README.md)：用户明确的单页遮挡、下拉浮窗、真实图片裁剪与原图；可本地试用，未部署，范围见 [ADR-004](../decisions/004-plate-overlay-prototype.md)。此前三页与计时流程建议未采纳。
 - [2026-11-03 简约布局评估 v1](reviews/2026-11-03-quiet-layout-review-v1.md)：低饱和、少圆角的餐盘与时间轴静态对照；待选择，未上线。
 - [2026-11-03 最小体验与首批社媒内容 v1](reviews/2026-11-03-mvp-and-social-launch-v1.md)：定义一餐一次的私密行为打卡与 X／小红书待发布文案；尚未发布或实施。
 - [2026-11-03 目标人群与首轮试用方案 v2](reviews/2026-11-03-audience-and-pilot-v2.md)：修正依赖他人维护菜单的问题，验证个人持续执行闭环及相对通用 Agent 的价值；未实施。
