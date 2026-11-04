@@ -18,6 +18,7 @@
 
 ## 独立评估
 
+- [当前餐食灰版 v1](prototypes/gray-v1/README.md)：2026-11-04，计时、白板、陪吃角色与“放下筷子”停止按钮统一对应当前记录；可本地交互，未部署。
 - [餐盘交互样机 v1](prototypes/plate-v1/README.md)：用户明确的单页遮挡、下拉浮窗、真实图片裁剪与原图；可本地试用，未部署，范围见 [ADR-004](../decisions/004-plate-overlay-prototype.md)。此前三页与计时流程建议未采纳。
 - [2026-11-03 简约布局评估 v1](reviews/2026-11-03-quiet-layout-review-v1.md)：低饱和、少圆角的餐盘与时间轴静态对照；待选择，未上线。
 - [2026-11-03 最小体验与首批社媒内容 v1](reviews/2026-11-03-mvp-and-social-launch-v1.md)：定义一餐一次的私密行为打卡与 X／小红书待发布文案；尚未发布或实施。
