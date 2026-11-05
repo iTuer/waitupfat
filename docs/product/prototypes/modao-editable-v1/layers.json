@@ -1,0 +1,1650 @@
+[
+  {
+    "file": "01-current.html",
+    "width": 390,
+    "height": 844,
+    "element_count": 51,
+    "layers": [
+      {
+        "id": "layer-001",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-002",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-003",
+        "name": "文字：12:00",
+        "type": "div"
+      },
+      {
+        "id": "layer-004",
+        "name": "文字：▰",
+        "type": "div"
+      },
+      {
+        "id": "layer-005",
+        "name": "文字：11月3日",
+        "type": "div"
+      },
+      {
+        "id": "layer-006",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-007",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-008",
+        "name": "文字：当前餐食 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-009",
+        "name": "文字：已吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-010",
+        "name": "文字：05:32",
+        "type": "div"
+      },
+      {
+        "id": "layer-011",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-012",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-013",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-014",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-015",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-016",
+        "name": "文字：本餐照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-017",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-018",
+        "name": "文字：陪吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-019",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-020",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-021",
+        "name": "文字：饮食结构评分",
+        "type": "div"
+      },
+      {
+        "id": "layer-022",
+        "name": "文字：82",
+        "type": "div"
+      },
+      {
+        "id": "layer-023",
+        "name": "文字：/100",
+        "type": "div"
+      },
+      {
+        "id": "layer-024",
+        "name": "文字：搭配较完整 · 蔬菜可以再多一些",
+        "type": "div"
+      },
+      {
+        "id": "layer-025",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-026",
+        "name": "文字：这一餐",
+        "type": "div"
+      },
+      {
+        "id": "layer-027",
+        "name": "文字：3 道",
+        "type": "div"
+      },
+      {
+        "id": "layer-028",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-029",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-030",
+        "name": "文字：清炒西蓝花",
+        "type": "div"
+      },
+      {
+        "id": "layer-031",
+        "name": "文字：蔬菜",
+        "type": "div"
+      },
+      {
+        "id": "layer-032",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-033",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-034",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-035",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-036",
+        "name": "文字：水煮牛肉",
+        "type": "div"
+      },
+      {
+        "id": "layer-037",
+        "name": "文字：蛋白质",
+        "type": "div"
+      },
+      {
+        "id": "layer-038",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-039",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-040",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-041",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-042",
+        "name": "文字：杂粮饭",
+        "type": "div"
+      },
+      {
+        "id": "layer-043",
+        "name": "文字：主食",
+        "type": "div"
+      },
+      {
+        "id": "layer-044",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-045",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-046",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-047",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-048",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-049",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-050",
+        "name": "文字：放下筷子",
+        "type": "div"
+      },
+      {
+        "id": "layer-051",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      }
+    ]
+  },
+  {
+    "file": "02-structure.html",
+    "width": 390,
+    "height": 844,
+    "element_count": 45,
+    "layers": [
+      {
+        "id": "layer-001",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-002",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-003",
+        "name": "文字：12:00",
+        "type": "div"
+      },
+      {
+        "id": "layer-004",
+        "name": "文字：▰",
+        "type": "div"
+      },
+      {
+        "id": "layer-005",
+        "name": "文字：11月3日",
+        "type": "div"
+      },
+      {
+        "id": "layer-006",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-007",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-008",
+        "name": "文字：当前餐食 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-009",
+        "name": "文字：已吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-010",
+        "name": "文字：05:32",
+        "type": "div"
+      },
+      {
+        "id": "layer-011",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-012",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-013",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-014",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-015",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-016",
+        "name": "文字：本餐照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-017",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-018",
+        "name": "文字：陪吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-019",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-020",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-021",
+        "name": "文字：饮食结构",
+        "type": "div"
+      },
+      {
+        "id": "layer-022",
+        "name": "文字：82",
+        "type": "div"
+      },
+      {
+        "id": "layer-023",
+        "name": "文字：本餐结构评分明细",
+        "type": "div"
+      },
+      {
+        "id": "layer-024",
+        "name": "文字：蔬菜",
+        "type": "div"
+      },
+      {
+        "id": "layer-025",
+        "name": "文字：偏少",
+        "type": "div"
+      },
+      {
+        "id": "layer-026",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-027",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-028",
+        "name": "文字：蛋白质",
+        "type": "div"
+      },
+      {
+        "id": "layer-029",
+        "name": "文字：适量",
+        "type": "div"
+      },
+      {
+        "id": "layer-030",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-031",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-032",
+        "name": "文字：主食",
+        "type": "div"
+      },
+      {
+        "id": "layer-033",
+        "name": "文字：适量",
+        "type": "div"
+      },
+      {
+        "id": "layer-034",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-035",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-036",
+        "name": "文字：食物多样性",
+        "type": "div"
+      },
+      {
+        "id": "layer-037",
+        "name": "文字：较好",
+        "type": "div"
+      },
+      {
+        "id": "layer-038",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-039",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-040",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-041",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-042",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-043",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-044",
+        "name": "文字：放下筷子",
+        "type": "div"
+      },
+      {
+        "id": "layer-045",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      }
+    ]
+  },
+  {
+    "file": "03-edit.html",
+    "width": 390,
+    "height": 844,
+    "element_count": 68,
+    "layers": [
+      {
+        "id": "layer-001",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-002",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-003",
+        "name": "文字：12:00",
+        "type": "div"
+      },
+      {
+        "id": "layer-004",
+        "name": "文字：▰",
+        "type": "div"
+      },
+      {
+        "id": "layer-005",
+        "name": "文字：11月3日",
+        "type": "div"
+      },
+      {
+        "id": "layer-006",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-007",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-008",
+        "name": "文字：当前餐食 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-009",
+        "name": "文字：已吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-010",
+        "name": "文字：05:32",
+        "type": "div"
+      },
+      {
+        "id": "layer-011",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-012",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-013",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-014",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-015",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-016",
+        "name": "文字：本餐照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-017",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-018",
+        "name": "文字：陪吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-019",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-020",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-021",
+        "name": "文字：饮食结构评分",
+        "type": "div"
+      },
+      {
+        "id": "layer-022",
+        "name": "文字：82",
+        "type": "div"
+      },
+      {
+        "id": "layer-023",
+        "name": "文字：/100",
+        "type": "div"
+      },
+      {
+        "id": "layer-024",
+        "name": "文字：搭配较完整 · 蔬菜可以再多一些",
+        "type": "div"
+      },
+      {
+        "id": "layer-025",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-026",
+        "name": "文字：这一餐",
+        "type": "div"
+      },
+      {
+        "id": "layer-027",
+        "name": "文字：3 道",
+        "type": "div"
+      },
+      {
+        "id": "layer-028",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-029",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-030",
+        "name": "文字：清炒西蓝花",
+        "type": "div"
+      },
+      {
+        "id": "layer-031",
+        "name": "文字：蔬菜",
+        "type": "div"
+      },
+      {
+        "id": "layer-032",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-033",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-034",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-035",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-036",
+        "name": "文字：水煮牛肉",
+        "type": "div"
+      },
+      {
+        "id": "layer-037",
+        "name": "文字：蛋白质",
+        "type": "div"
+      },
+      {
+        "id": "layer-038",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-039",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-040",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-041",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-042",
+        "name": "文字：杂粮饭",
+        "type": "div"
+      },
+      {
+        "id": "layer-043",
+        "name": "文字：主食",
+        "type": "div"
+      },
+      {
+        "id": "layer-044",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-045",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-046",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-047",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-048",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-049",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-050",
+        "name": "文字：放下筷子",
+        "type": "div"
+      },
+      {
+        "id": "layer-051",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-052",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-053",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-054",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-055",
+        "name": "文字：修正菜品",
+        "type": "div"
+      },
+      {
+        "id": "layer-056",
+        "name": "文字：完成",
+        "type": "div"
+      },
+      {
+        "id": "layer-057",
+        "name": "文字：菜品名称",
+        "type": "div"
+      },
+      {
+        "id": "layer-058",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-059",
+        "name": "文字：清炒西蓝花",
+        "type": "div"
+      },
+      {
+        "id": "layer-060",
+        "name": "文字：食物类别",
+        "type": "div"
+      },
+      {
+        "id": "layer-061",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-062",
+        "name": "文字：蔬菜",
+        "type": "div"
+      },
+      {
+        "id": "layer-063",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-064",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-065",
+        "name": "文字：份量",
+        "type": "div"
+      },
+      {
+        "id": "layer-066",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-067",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-068",
+        "name": "线条",
+        "type": "div"
+      }
+    ]
+  },
+  {
+    "file": "04-incomplete.html",
+    "width": 390,
+    "height": 844,
+    "element_count": 38,
+    "layers": [
+      {
+        "id": "layer-001",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-002",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-003",
+        "name": "文字：12:00",
+        "type": "div"
+      },
+      {
+        "id": "layer-004",
+        "name": "文字：▰",
+        "type": "div"
+      },
+      {
+        "id": "layer-005",
+        "name": "文字：11月3日",
+        "type": "div"
+      },
+      {
+        "id": "layer-006",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-007",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-008",
+        "name": "文字：当前餐食 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-009",
+        "name": "文字：已吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-010",
+        "name": "文字：05:32",
+        "type": "div"
+      },
+      {
+        "id": "layer-011",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-012",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-013",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-014",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-015",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-016",
+        "name": "文字：本餐照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-017",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-018",
+        "name": "文字：陪吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-019",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-020",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-021",
+        "name": "文字：饮食结构评分",
+        "type": "div"
+      },
+      {
+        "id": "layer-022",
+        "name": "文字：—",
+        "type": "div"
+      },
+      {
+        "id": "layer-023",
+        "name": "文字：补充菜品后查看评分",
+        "type": "div"
+      },
+      {
+        "id": "layer-024",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-025",
+        "name": "文字：这一餐",
+        "type": "div"
+      },
+      {
+        "id": "layer-026",
+        "name": "文字：1 道",
+        "type": "div"
+      },
+      {
+        "id": "layer-027",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-028",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-029",
+        "name": "文字：未识别的菜品",
+        "type": "div"
+      },
+      {
+        "id": "layer-030",
+        "name": "文字：补充名称与食物类别",
+        "type": "div"
+      },
+      {
+        "id": "layer-031",
+        "name": "文字：编辑",
+        "type": "div"
+      },
+      {
+        "id": "layer-032",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-033",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-034",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-035",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-036",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-037",
+        "name": "文字：放下筷子",
+        "type": "div"
+      },
+      {
+        "id": "layer-038",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      }
+    ]
+  },
+  {
+    "file": "05-full-plate.html",
+    "width": 390,
+    "height": 844,
+    "element_count": 67,
+    "layers": [
+      {
+        "id": "layer-001",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-002",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-003",
+        "name": "文字：12:00",
+        "type": "div"
+      },
+      {
+        "id": "layer-004",
+        "name": "文字：▰",
+        "type": "div"
+      },
+      {
+        "id": "layer-005",
+        "name": "文字：11月3日",
+        "type": "div"
+      },
+      {
+        "id": "layer-006",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-007",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-008",
+        "name": "文字：当前餐食 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-009",
+        "name": "文字：已吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-010",
+        "name": "文字：05:32",
+        "type": "div"
+      },
+      {
+        "id": "layer-011",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-012",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-013",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-014",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-015",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-016",
+        "name": "文字：本餐照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-017",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-018",
+        "name": "文字：陪吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-019",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-020",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-021",
+        "name": "文字：饮食结构评分",
+        "type": "div"
+      },
+      {
+        "id": "layer-022",
+        "name": "文字：82",
+        "type": "div"
+      },
+      {
+        "id": "layer-023",
+        "name": "文字：/100",
+        "type": "div"
+      },
+      {
+        "id": "layer-024",
+        "name": "文字：搭配较完整 · 蔬菜可以再多一些",
+        "type": "div"
+      },
+      {
+        "id": "layer-025",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-026",
+        "name": "文字：这一餐",
+        "type": "div"
+      },
+      {
+        "id": "layer-027",
+        "name": "文字：3 道",
+        "type": "div"
+      },
+      {
+        "id": "layer-028",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-029",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-030",
+        "name": "文字：清炒西蓝花",
+        "type": "div"
+      },
+      {
+        "id": "layer-031",
+        "name": "文字：蔬菜",
+        "type": "div"
+      },
+      {
+        "id": "layer-032",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-033",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-034",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-035",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-036",
+        "name": "文字：水煮牛肉",
+        "type": "div"
+      },
+      {
+        "id": "layer-037",
+        "name": "文字：蛋白质",
+        "type": "div"
+      },
+      {
+        "id": "layer-038",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-039",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-040",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-041",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-042",
+        "name": "文字：杂粮饭",
+        "type": "div"
+      },
+      {
+        "id": "layer-043",
+        "name": "文字：主食",
+        "type": "div"
+      },
+      {
+        "id": "layer-044",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-045",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-046",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-047",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-048",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-049",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-050",
+        "name": "文字：放下筷子",
+        "type": "div"
+      },
+      {
+        "id": "layer-051",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-052",
+        "name": "浮窗后方背景组",
+        "type": "div"
+      },
+      {
+        "id": "layer-053",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-054",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-055",
+        "name": "文字：当前餐盘",
+        "type": "div"
+      },
+      {
+        "id": "layer-056",
+        "name": "文字：×",
+        "type": "div"
+      },
+      {
+        "id": "layer-057",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-058",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-059",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-060",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-061",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-062",
+        "name": "文字：西蓝花",
+        "type": "div"
+      },
+      {
+        "id": "layer-063",
+        "name": "文字：牛肉",
+        "type": "div"
+      },
+      {
+        "id": "layer-064",
+        "name": "文字：杂粮饭",
+        "type": "div"
+      },
+      {
+        "id": "layer-065",
+        "name": "文字：11月3日 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-066",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-067",
+        "name": "文字：生成图片",
+        "type": "div"
+      }
+    ]
+  },
+  {
+    "file": "06-stopped.html",
+    "width": 390,
+    "height": 844,
+    "element_count": 51,
+    "layers": [
+      {
+        "id": "layer-001",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-002",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-003",
+        "name": "文字：12:00",
+        "type": "div"
+      },
+      {
+        "id": "layer-004",
+        "name": "文字：▰",
+        "type": "div"
+      },
+      {
+        "id": "layer-005",
+        "name": "文字：11月3日",
+        "type": "div"
+      },
+      {
+        "id": "layer-006",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-007",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-008",
+        "name": "文字：当前餐食 · 11:55",
+        "type": "div"
+      },
+      {
+        "id": "layer-009",
+        "name": "文字：已结束",
+        "type": "div"
+      },
+      {
+        "id": "layer-010",
+        "name": "文字：05:32",
+        "type": "div"
+      },
+      {
+        "id": "layer-011",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-012",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-013",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-014",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-015",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-016",
+        "name": "文字：本餐照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-017",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-018",
+        "name": "文字：陪吃",
+        "type": "div"
+      },
+      {
+        "id": "layer-019",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-020",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-021",
+        "name": "文字：饮食结构评分",
+        "type": "div"
+      },
+      {
+        "id": "layer-022",
+        "name": "文字：82",
+        "type": "div"
+      },
+      {
+        "id": "layer-023",
+        "name": "文字：/100",
+        "type": "div"
+      },
+      {
+        "id": "layer-024",
+        "name": "文字：搭配较完整 · 蔬菜可以再多一些",
+        "type": "div"
+      },
+      {
+        "id": "layer-025",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-026",
+        "name": "文字：这一餐",
+        "type": "div"
+      },
+      {
+        "id": "layer-027",
+        "name": "文字：3 道",
+        "type": "div"
+      },
+      {
+        "id": "layer-028",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-029",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-030",
+        "name": "文字：清炒西蓝花",
+        "type": "div"
+      },
+      {
+        "id": "layer-031",
+        "name": "文字：蔬菜",
+        "type": "div"
+      },
+      {
+        "id": "layer-032",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-033",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-034",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-035",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-036",
+        "name": "文字：水煮牛肉",
+        "type": "div"
+      },
+      {
+        "id": "layer-037",
+        "name": "文字：蛋白质",
+        "type": "div"
+      },
+      {
+        "id": "layer-038",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-039",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-040",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-041",
+        "name": "文字：照片",
+        "type": "div"
+      },
+      {
+        "id": "layer-042",
+        "name": "文字：杂粮饭",
+        "type": "div"
+      },
+      {
+        "id": "layer-043",
+        "name": "文字：主食",
+        "type": "div"
+      },
+      {
+        "id": "layer-044",
+        "name": "文字：1 份",
+        "type": "div"
+      },
+      {
+        "id": "layer-045",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-046",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      },
+      {
+        "id": "layer-047",
+        "name": "圆形 / 餐盘 / 照片占位",
+        "type": "div"
+      },
+      {
+        "id": "layer-048",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-049",
+        "name": "线条",
+        "type": "div"
+      },
+      {
+        "id": "layer-050",
+        "name": "文字：本餐已结束",
+        "type": "div"
+      },
+      {
+        "id": "layer-051",
+        "name": "矩形 / 背景 / 评分条",
+        "type": "div"
+      }
+    ]
+  }
+]
